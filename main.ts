@@ -10,7 +10,8 @@ const OUT = "/output/entry.txt";
 // about how the thing actually behaves — not the stock battery or
 // update complaints. The smartwatch is the target: it monitors its
 // owner around the clock, then clocks out before he does.
-const LEDGER = "My smartwatch counts my steps, scores my sleep and judges my heart rate, ";
+const LEDGER =
+  "My smartwatch counts my steps, scores my sleep and files a nightly report on my heart, ";
 const STING = "then dies at 6 p.m. sharp, like it works office hours and I don't.";
 const LINE = LEDGER + STING;
 
